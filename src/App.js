@@ -195,7 +195,7 @@ function App() {
         buttonBg={buttonBg}
         playAgain={playAgain}
       />
-      <a href="https://myportfo1io.online/"><button className="btp-button">Back to portfolio</button></a>
+      <a href="https://simon-ugor.online/"><button className="btp-button">Back to portfolio</button></a>
     </div>
   );
 }
