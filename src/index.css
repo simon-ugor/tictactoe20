@@ -163,4 +163,5 @@
   height: 5vh;
   font-family: tictactoe;
   font-size: 2.5vh;
+  display: none;
 }
